@@ -1,7 +1,7 @@
 # gun_laws_crime_rate_report
 
 ## About
-This report was prepared as part of the "Statistics" course in the Applied Mathematics program at the Wroclaw University of Technology. For this reason, the report is written in Polish.
+This project was prepared as part of the "Statistics" course in the Applied Mathematics program at the Wroclaw University of Technology. For this reason, the report is written in Polish.
 
 The dataset we analyze in this repository comes from the website [vincentarelbundock.github.io](https://vincentarelbundock.github.io/Rdatasets/datasets.html) and is titled ["More Guns, Less Crime?"](https://vincentarelbundock.github.io/Rdatasets/doc/AER/Guns.html). It contains data collected between 1977 and 1999 across 51 U.S. states (including the District of Columbia) on firearm use, crime rates, selected demographic information, and whether a state had a "shall carry law" in a given year. A "shall carry law" is a regulation governing the carrying of firearms. This law requires officials to issue a permit for the concealed carry of firearms if a person meets certain specified criteria. The goal of our analysis will be to compare the statistical characteristics of crime in states with and without this law.
 
